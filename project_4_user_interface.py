@@ -1,5 +1,3 @@
-##Jeruel Engo 67301743
-
 import project_4_game_logic
 
 print('FULL')
